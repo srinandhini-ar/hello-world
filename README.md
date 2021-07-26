@@ -1,2 +1,2 @@
 # hello-world
-A Basic Repository
+An Introductory Repository
